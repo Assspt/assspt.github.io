@@ -1,17 +1,4 @@
-<style>
-.a-style{
-color:#fff;
-text-decoration:none;
 
-
-}
-.a-style:hover{
-color:#FFA500;
-text-decoration:none;
-
-
-}
-</style>
 <html lang="fa-IR">
 
 <body style="margin: 0; -webkit-touch-callout: none;     -webkit-user-select: none;  -moz-user-select: none;  -ms-user-select: none;user-select: none; ">
