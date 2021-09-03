@@ -1,5 +1,16 @@
 <style>
-img {max-width:100%;}
+.a-style{
+color:#fff;
+text-decoration:none;
+
+
+}
+.a-style:hover{
+color:#FFA500;
+text-decoration:none;
+
+
+}
 </style>
 <html lang="fa-IR">
 
@@ -132,14 +143,14 @@ img {max-width:100%;}
 
 
 <br>
-
-<div style="background:#7B68EE; text-align: right;  margin-left:-150px; " alink="green">
+<nav style="background:#7B68EE; text-align: right;  margin-left:-150px;">
+<div style="background:#7B68EE; text-align: right;  margin-left:-10px; " alink="green">
 <br>
 <br>
 <center>
 <h3 style="color:#fff;">گزینه های سایت</h3>
 <br>
- <a href="https://assspt.github.io/blogo/blog.my.html" style="color:#fff; text-decoration:none;">
+ <a href="https://assspt.github.io/blogo/blog.my.html" style="color:#fff; text-decoration:none;" class="a-style">
 
 
 
@@ -149,14 +160,14 @@ img {max-width:100%;}
 </a>
 <br>
 <br>
-<a href="https://assspt.github.io/blogo/blog.html" style="color:#fff;text-decoration:none;">
+<a href="https://assspt.github.io/blogo/blog.html" style="color:#fff;text-decoration:none;" class="a-style">
 ثبت نام
 
 </a>
 <br>
 <br>
 
-<a href="https://assspt.github.io/blogo/help.html" style="color:#fff; text-decoration:none;">
+<a href="https://assspt.github.io/blogo/help.html" style="color:#fff; text-decoration:none;" class="a-style">
 
 
  
@@ -170,7 +181,7 @@ img {max-width:100%;}
 
 <br>
 <br>
-<a href="https://assspt.github.io/blogo/ermas.html" style="color:#fff; text-decoration:none;">
+<a href="https://assspt.github.io/blogo/ermas.html" style="color:#fff; text-decoration:none;" class="a-style">
 
 مطالب وبسایت
 
@@ -180,7 +191,7 @@ img {max-width:100%;}
 </a>
 <br>
 <br>
-<a href="https://assspt.github.io/blogo/don12.html" style="color:#fff; text-decoration:none;">
+<a href="https://assspt.github.io/blogo/don12.html" style="color:#fff; text-decoration:none;" class="a-style">
 
 دانلود برنامه وبسایت 
 
@@ -189,7 +200,7 @@ img {max-width:100%;}
 </a>
 <br>
 <br>
-<a href="https://assspt.github.io/blogo/helpio.html" style="color:#fff; text-decoration:none;">
+<a href="https://assspt.github.io/blogo/helpio.html" style="color:#fff; text-decoration:none;" class="a-style">
 
  هشدار ها 
 
@@ -198,7 +209,7 @@ img {max-width:100%;}
 </a>
 <br>
 <br>
-<a href="https://assspt.github.io/blogo.x/" style="color:#fff; text-decoration:none;">
+<a href="https://assspt.github.io/blogo.x/" style="color:#fff; text-decoration:none;" class="a-style">
 
 
 حالت تاریک
@@ -206,7 +217,7 @@ img {max-width:100%;}
 </a>
 <br>
 <br>
-<a href="https://assspt.github.io/blogo/xp.html" style="color:#fff; text-decoration:none;">
+<a href="https://assspt.github.io/blogo/xp.html" style="color:#fff; text-decoration:none;" class="a-style">
 
  
  مخزن ها
@@ -216,7 +227,7 @@ img {max-width:100%;}
 </a>
 <br>
 <br>
-<a href="https://assspt.github.io/blogo/helpmy.html" style="color:#fff; text-decoration:none;">
+<a href="https://assspt.github.io/blogo/helpmy.html" style="color:#fff; text-decoration:none;" class="a-style">
 
 
 
@@ -229,7 +240,7 @@ img {max-width:100%;}
 
 <br>
 <br>
-<a href="https://assspt.github.io/status.blogo/" style="color:#fff; text-decoration:none;">
+<a href="https://assspt.github.io/status.blogo/" style="color:#fff; text-decoration:none;" class="a-style">
 
  
  وضعیت سیستم
@@ -247,13 +258,13 @@ img {max-width:100%;}
 
 
 
-<div style="background:#7B68EE; text-align: right; margin-left:320px; margin-top:-570px; width:200px;" alink="green">
+<div style="background:#7B68EE; text-align: right; margin-left:350px; margin-top:-550px; width:200px;" alink="green">
 <center>
 
 
 <h3 style="color:#fff;">نمونه کار ها </h3>
 <br>
-<a href="https://assspt.github.io/blogo/test3.html" style="color:#fff; text-decoration:none;">
+<a href="https://assspt.github.io/blogo/test3.html" style="color:#fff; text-decoration:none;" class="a-style">
 
 
 تست  عنوان و نوشته ها
@@ -262,7 +273,7 @@ img {max-width:100%;}
 
 <br>
 <br>
-<a href="https://assspt.github.io/blogo/test10.html" style="color:#fff; text-decoration:none;">
+<a href="https://assspt.github.io/blogo/test10.html" style="color:#fff; text-decoration:none;" class="a-style">
 
 
 تست  سرچ کننده
@@ -272,7 +283,7 @@ img {max-width:100%;}
 <br>
 
 <br>
-<a href="https://assspt.github.io/blogo/test30.html" style="color:#fff; text-decoration:none;">
+<a href="https://assspt.github.io/blogo/test30.html" style="color:#fff; text-decoration:none;" class="a-style">
 
 
 مدل ۲ وبسایت
@@ -281,7 +292,7 @@ img {max-width:100%;}
 
 <br>
 <br>
-<a href="https://assspt.github.io/blogo/test31.html" style="color:#fff; text-decoration:none;">
+<a href="https://assspt.github.io/blogo/test31.html" style="color:#fff; text-decoration:none;" class="a-style">
 
 
 مدل ۳ وبسایت
@@ -308,3 +319,8 @@ img {max-width:100%;}
 <br>
 <br>
 <br>
+</center>
+</div>
+</center>
+</div>
+</nav>
