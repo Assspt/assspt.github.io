@@ -1,5 +1,5 @@
 
-<link rel="stylesheet"   href="css.css">
+<link rel="stylesheet" href="css.css">
 
 <html lang="fa-IR">
 
